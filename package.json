@@ -1,0 +1,23 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "node.js socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naughty1905/simple-chat.git"
+  },
+  "keywords": [
+    "node.js",
+    "socket.io"
+  ],
+  "author": "Istomin Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naughty1905/simple-chat/issues"
+  },
+  "homepage": "https://github.com/Naughty1905/simple-chat#readme"
+}
